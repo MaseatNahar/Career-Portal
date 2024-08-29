@@ -1,0 +1,12 @@
+.Header-container{
+  display: flex;
+  justify-content: space-between;
+}
+.Header-container img{
+    width: 600px;
+    height: 600px;
+}
+.index{
+    align-self: center;
+
+}

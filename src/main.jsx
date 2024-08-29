@@ -4,6 +4,7 @@ import { createBrowserRouter,RouterProvider } from 'react-router-dom'
 import App from './App.jsx'
 import Blogs from './Components/Blogs/Blogs.jsx'
 import Home from './Components/Home/Home.jsx'
+import Jobdetails from './Components/Jobdetails/Jobdetails.jsx'
 import Jobs from './Components/Jobs/Jobs.jsx'
 import Main from './Components/Layout/Main.jsx'
 import Statistics from './Components/Statistics/Statistics.jsx'
@@ -17,7 +18,8 @@ const router = createBrowserRouter([
     children: [
       {
         path: '/',
-        element: <Home></Home>
+        element: <Home></Home>,
+        loader: () => fetch('data.json')
       },
       {
         path: 'Statistics',
@@ -30,6 +32,10 @@ const router = createBrowserRouter([
       {
         path: 'Blogs',
         element:<Blogs></Blogs>
+      },
+      {
+        path: 'jobdetails',
+        element:<Jobdetails></Jobdetails>
       }
     ]
   }

@@ -1,0 +1,115 @@
+{
+    "job_postings": [
+      {
+        "id": 1,
+        "company_logo": "https://i.ibb.co/FzmMxqz/netflix.png",
+        "job_type": ["Full-time", "Remote"],
+        "location": "New York, NY",
+        "salary": "$70,000 - $90,000 per year",
+        "job_description": "We are looking for a skilled software engineer to join our team. The ideal candidate will have experience in web development and a strong understanding of software engineering principles.",
+        "job_responsibility": [
+          "Develop and maintain web applications",
+          "Collaborate with cross-functional teams to define, design, and ship new features",
+          "Write clean, maintainable code",
+          "Participate in code reviews"
+        ],
+        "education": "Bachelor's degree in Computer Science or related field",
+        "phone_number": "+1-555-555-5555",
+        "email": "hr@example.com",
+        "job_title": "Software Engineer"
+      },
+      {
+        "id" : 2,
+        "company_logo": "https://i.ibb.co/f8DCPhR/tesla.png",
+        "job_type": ["Part-time", "On-site"],
+        "location": "San Francisco, CA",
+        "salary": "$40,000 - $50,000 per year",
+        "job_description": "We are seeking a marketing specialist to help grow our brand. The ideal candidate should have a creative mindset and experience in digital marketing strategies.",
+        "job_responsibility": [
+          "Develop and implement marketing campaigns",
+          "Monitor and report on the effectiveness of marketing strategies",
+          "Manage social media accounts",
+          "Collaborate with the design team to create promotional materials"
+        ],
+        "education": "Bachelor's degree in Marketing, Business, or related field",
+        "phone_number": "+1-555-123-4567",
+        "email": "marketing@example.com",
+        "job_title": "Marketing Specialist"
+      },
+      {
+        "id": 3,
+        "company_logo": "https://i.ibb.co/VpV0wD3/Career-Hub.png",
+        "job_type": ["Full-time", "On-site"],
+        "location": "Austin, TX",
+        "salary": "$80,000 - $100,000 per year",
+        "job_description": "We need an experienced project manager to oversee a variety of projects. The candidate should have strong leadership skills and a proven track record in project management.",
+        "job_responsibility": [
+          "Manage project timelines and deliverables",
+          "Coordinate with team members and stakeholders",
+          "Identify and mitigate risks",
+          "Ensure projects are completed on time and within budget"
+        ],
+        "education": "Bachelor's degree in Business or related field",
+        "phone_number": "+1-555-987-6543",
+        "email": "pm@example.com",
+        "job_title": "Project Manager"
+      },
+      {
+        "id": 4,
+        "company_logo": "https://i.ibb.co/WfMv3z4/google.png",
+        "job_type": ["Contract", "Remote"],
+        "location": "Chicago, IL",
+        "salary": "$60,000 - $75,000 per year",
+        "job_description": "We are looking for a content writer with a passion for storytelling and a strong grasp of SEO. The candidate will create engaging content for our blog and website.",
+        "job_responsibility": [
+          "Write and edit blog posts and web content",
+          "Research and implement SEO best practices",
+          "Collaborate with marketing and design teams",
+          "Track and analyze content performance"
+        ],
+        "education": "Bachelor's degree in English, Journalism, or related field",
+        "phone_number": "+1-555-321-7654",
+        "email": "content@example.com",
+        "job_title": "Content Writer"
+      },
+      {
+        "id": 5,
+        "company_logo": "https://i.ibb.co/VpV0wD3/Career-Hub.png",
+        "job_type": ["Full-time", "Remote"],
+        "location": "Miami, FL",
+        "salary": "$90,000 - $110,000 per year",
+        "job_description": "We are searching for a data scientist to analyze complex datasets and provide actionable insights. The ideal candidate will have experience with machine learning algorithms and statistical modeling.",
+        "job_responsibility": [
+          "Analyze large datasets to identify trends and patterns",
+          "Develop and implement machine learning models",
+          "Collaborate with engineering and product teams",
+          "Present findings to stakeholders"
+        ],
+        "education": "Master's degree in Data Science, Statistics, or related field",
+        "phone_number": "+1-555-456-7890",
+        "email": "data@example.com",
+        "job_title": "Data Scientist"
+      },
+      {
+        "id": 6,
+        "company_logo": "https://i.ibb.co/3BDy3TX/airbnb.png",
+        "job_type": ["Internship", "On-site"],
+        "location": "Seattle, WA",
+        "salary": "$15 - $20 per hour",
+        "job_description": "We offer an internship opportunity for a graphic design student to work on real-world projects. This position is ideal for those looking to gain experience in the design industry.",
+        "job_responsibility": [
+          "Assist in creating visual designs for web and print",
+          "Collaborate with senior designers on various projects",
+          "Participate in brainstorming sessions",
+          "Prepare design files for production"
+        ],
+        "education": "Currently pursuing a degree in Graphic Design or related field",
+        "phone_number": "+1-555-654-3210",
+        "email": "internship@example.com",
+        "job_title": "Graphic Design Intern"
+      }
+    ]
+  }
+
+
+
